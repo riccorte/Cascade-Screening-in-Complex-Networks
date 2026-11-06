@@ -14,5 +14,13 @@ Thumbs.db
 # local backups
 *.bak*
 
-# raw downloads (only processed data goes in the repo)
-data/raw/
+# raw downloads: only the four protein networks used by notebooks 06-08 go in the repo
+data/raw/*
+!data/raw/zitnik2019_treeoflife/
+data/raw/zitnik2019_treeoflife/*
+!data/raw/zitnik2019_treeoflife/treeoflife.interactomes/
+data/raw/zitnik2019_treeoflife/treeoflife.interactomes/*
+!data/raw/zitnik2019_treeoflife/treeoflife.interactomes/1148.txt
+!data/raw/zitnik2019_treeoflife/treeoflife.interactomes/85962.txt
+!data/raw/zitnik2019_treeoflife/treeoflife.interactomes/5833.txt
+!data/raw/zitnik2019_treeoflife/treeoflife.interactomes/511145.txt

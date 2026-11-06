@@ -1,0 +1,550 @@
+network,protocol,f,draw,phi_c MP,phi_c MC,peak on edge
+Synechocystis,random,0.0,0.0,0.043365478515625,0.2025,False
+Synechocystis,random,0.001,0.0,0.043365478515625,0.1725,False
+Synechocystis,random,0.001,1.0,0.043365478515625,0.14,False
+Synechocystis,random,0.001,2.0,0.043365478515625,0.23,False
+Synechocystis,random,0.001,3.0,0.043365478515625,0.1925,False
+Synechocystis,random,0.001,4.0,0.043365478515625,0.185,False
+Synechocystis,random,0.001,5.0,0.043365478515625,0.2125,False
+Synechocystis,random,0.001,6.0,0.037811279296875,0.21,False
+Synechocystis,random,0.001,7.0,0.043365478515625,0.1525,False
+Synechocystis,random,0.001,8.0,0.043365478515625,0.2125,False
+Synechocystis,random,0.001,9.0,0.043365478515625,0.195,False
+Synechocystis,random,0.001,10.0,0.043365478515625,0.1875,False
+Synechocystis,random,0.001,11.0,0.027374267578125,0.1975,False
+Synechocystis,random,0.001,12.0,0.043365478515625,0.18,False
+Synechocystis,random,0.001,13.0,0.027374267578125,0.1975,False
+Synechocystis,random,0.001,14.0,0.043365478515625,0.1625,False
+Synechocystis,random,0.001,15.0,0.043365478515625,0.21,False
+Synechocystis,random,0.001,16.0,0.043365478515625,0.145,False
+Synechocystis,random,0.001,17.0,0.043365478515625,0.1725,False
+Synechocystis,random,0.001,18.0,0.043365478515625,0.18,False
+Synechocystis,random,0.001,19.0,0.043365478515625,0.2,False
+Synechocystis,random,0.001,20.0,0.043365478515625,0.18,False
+Synechocystis,random,0.001,21.0,0.043365478515625,0.1975,False
+Synechocystis,random,0.001,22.0,0.043365478515625,0.1575,False
+Synechocystis,random,0.001,23.0,0.043365478515625,0.205,False
+Synechocystis,random,0.001,24.0,0.043365478515625,0.26,False
+Synechocystis,random,0.003,0.0,0.032501220703125,0.185,False
+Synechocystis,random,0.003,1.0,0.043365478515625,0.205,False
+Synechocystis,random,0.003,2.0,0.027374267578125,0.19,False
+Synechocystis,random,0.003,3.0,0.043365478515625,0.18,False
+Synechocystis,random,0.003,4.0,0.043365478515625,0.1825,False
+Synechocystis,random,0.003,5.0,0.043365478515625,0.1725,False
+Synechocystis,random,0.003,6.0,0.038421630859375,0.235,False
+Synechocystis,random,0.003,7.0,0.043365478515625,0.21,False
+Synechocystis,random,0.003,8.0,0.043365478515625,0.215,False
+Synechocystis,random,0.003,9.0,0.043365478515625,0.1825,False
+Synechocystis,random,0.003,10.0,0.043365478515625,0.215,False
+Synechocystis,random,0.003,11.0,0.043365478515625,0.1625,False
+Synechocystis,random,0.003,12.0,0.026336669921875,0.19,False
+Synechocystis,random,0.003,13.0,0.038848876953125,0.2425,False
+Synechocystis,random,0.01,0.0,0.043365478515625,0.2025,False
+Synechocystis,random,0.01,1.0,0.040313720703125,0.19,False
+Synechocystis,random,0.01,2.0,0.043365478515625,0.2275,False
+Synechocystis,random,0.01,3.0,0.043365478515625,0.1875,False
+Synechocystis,random,0.01,4.0,0.037689208984375,0.175,False
+Synechocystis,random,0.01,5.0,0.043365478515625,0.16,False
+Synechocystis,random,0.01,6.0,0.043365478515625,0.2325,False
+Synechocystis,random,0.01,7.0,0.034149169921875,0.21,False
+Synechocystis,random,0.01,8.0,0.043182373046875,0.1825,False
+Synechocystis,random,0.01,9.0,0.043365478515625,0.18,False
+Synechocystis,random,0.01,10.0,0.017852783203125,0.1775,False
+Synechocystis,random,0.03,0.0,3.0517578125e-05,0.195,False
+Synechocystis,random,0.03,1.0,0.032623291015625,0.165,False
+Synechocystis,random,0.03,2.0,0.024444580078125,0.18,False
+Synechocystis,random,0.03,3.0,0.027313232421875,0.155,False
+Synechocystis,random,0.03,4.0,0.027252197265625,0.14,False
+Synechocystis,random,0.03,5.0,0.025054931640625,0.1725,False
+Synechocystis,random,0.03,6.0,0.022796630859375,0.175,False
+Synechocystis,random,0.03,7.0,0.008758544921875,0.1625,False
+Synechocystis,random,0.03,8.0,3.0517578125e-05,0.165,False
+Synechocystis,random,0.03,9.0,0.032989501953125,0.1825,False
+Synechocystis,random,0.05,0.0,0.012664794921875,0.1725,False
+Synechocystis,random,0.05,1.0,3.0517578125e-05,0.155,False
+Synechocystis,random,0.05,2.0,0.023651123046875,0.1475,False
+Synechocystis,random,0.05,3.0,0.013763427734375,0.1925,False
+Synechocystis,random,0.05,4.0,0.024688720703125,0.16,False
+Synechocystis,random,0.05,5.0,3.0517578125e-05,0.135,False
+Synechocystis,random,0.05,6.0,0.012603759765625,0.17,False
+Synechocystis,random,0.05,7.0,0.021514892578125,0.1825,False
+Synechocystis,random,0.05,8.0,0.008697509765625,0.16,False
+Synechocystis,random,0.05,9.0,3.0517578125e-05,0.1575,False
+Synechocystis,random,0.1,0.0,0.0,0.0975,False
+Synechocystis,random,0.1,1.0,0.0,0.1025,False
+Synechocystis,random,0.1,2.0,0.0,0.0975,False
+Synechocystis,random,0.1,3.0,0.0,0.1475,False
+Synechocystis,random,0.1,4.0,3.0517578125e-05,0.1075,False
+Synechocystis,random,0.1,5.0,0.0,0.14,False
+Synechocystis,random,0.1,6.0,0.0,0.1,False
+Synechocystis,random,0.1,7.0,0.0,0.09,False
+Synechocystis,random,0.1,8.0,0.0,0.0975,False
+Synechocystis,random,0.1,9.0,0.0,0.0925,False
+Synechocystis,degree,0.0,0.0,0.043365478515625,0.215,False
+Synechocystis,degree,0.001,0.0,0.025848388671875,0.1775,False
+Synechocystis,degree,0.003,0.0,3.0517578125e-05,0.135,False
+Synechocystis,degree,0.01,0.0,0.0,0.1525,False
+Synechocystis,degree,0.01,1.0,0.0,0.1125,False
+Synechocystis,degree,0.01,2.0,0.0,0.07,False
+Synechocystis,degree,0.01,3.0,0.0,0.1125,False
+Synechocystis,degree,0.01,4.0,0.0,0.105,False
+Synechocystis,degree,0.01,5.0,0.0,0.07,False
+Synechocystis,degree,0.01,6.0,0.0,0.0975,False
+Synechocystis,degree,0.01,7.0,0.0,0.105,False
+Synechocystis,degree,0.01,8.0,0.0,0.095,False
+Synechocystis,degree,0.01,9.0,0.0,0.0825,False
+Synechocystis,degree,0.01,10.0,0.0,0.0925,False
+Synechocystis,degree,0.03,0.0,0.0,0.3075,False
+Synechocystis,degree,0.03,1.0,0.0,0.2175,False
+Synechocystis,degree,0.03,2.0,0.0,0.27,False
+Synechocystis,degree,0.03,3.0,0.0,0.27,False
+Synechocystis,degree,0.03,4.0,0.0,0.2825,False
+Synechocystis,degree,0.03,5.0,0.0,0.1925,False
+Synechocystis,degree,0.03,6.0,0.0,0.315,False
+Synechocystis,degree,0.03,7.0,0.0,0.2725,False
+Synechocystis,degree,0.03,8.0,0.0,0.32,False
+Synechocystis,degree,0.03,9.0,0.0,0.3125,False
+Synechocystis,degree,0.05,0.0,0.0,0.3475,False
+Synechocystis,degree,0.05,1.0,0.0,0.2825,False
+Synechocystis,degree,0.05,2.0,0.0,0.26,False
+Synechocystis,degree,0.05,3.0,0.0,0.3875,False
+Synechocystis,degree,0.05,4.0,0.0,0.3325,False
+Synechocystis,degree,0.05,5.0,0.0,0.3725,False
+Synechocystis,degree,0.05,6.0,0.0,0.31,False
+Synechocystis,degree,0.05,7.0,0.0,0.27,False
+Synechocystis,degree,0.05,8.0,0.0,0.2775,False
+Synechocystis,degree,0.05,9.0,0.0,0.25,False
+Synechocystis,degree,0.1,0.0,0.0,0.365,False
+Synechocystis,degree,0.1,1.0,0.0,0.3725,False
+Synechocystis,degree,0.1,2.0,0.0,0.345,False
+Synechocystis,degree,0.1,3.0,0.0,0.2325,False
+Synechocystis,degree,0.1,4.0,0.0,0.345,False
+Synechocystis,degree,0.1,5.0,0.0,0.3825,False
+Synechocystis,degree,0.1,6.0,0.0,0.2975,False
+Synechocystis,degree,0.1,7.0,0.0,0.38,False
+Synechocystis,degree,0.1,8.0,0.0,0.36,False
+Synechocystis,degree,0.1,9.0,0.0,0.225,False
+Synechocystis,betweenness,0.0,0.0,0.043365478515625,0.195,False
+Synechocystis,betweenness,0.001,0.0,0.041656494140625,0.16,False
+Synechocystis,betweenness,0.003,0.0,0.040924072265625,0.12,False
+Synechocystis,betweenness,0.01,0.0,0.0,0.22,False
+Synechocystis,betweenness,0.03,0.0,0.0,0.25,False
+Synechocystis,betweenness,0.05,0.0,0.0,0.335,False
+Synechocystis,betweenness,0.1,0.0,0.0,0.345,False
+H. pylori,random,0.0,0.0,0.067352294921875,0.205,False
+H. pylori,random,0.001,0.0,0.067352294921875,0.195,False
+H. pylori,random,0.001,1.0,0.067352294921875,0.2175,False
+H. pylori,random,0.001,2.0,0.067352294921875,0.16,False
+H. pylori,random,0.001,3.0,0.067352294921875,0.1725,False
+H. pylori,random,0.001,4.0,0.048919677734375,0.1825,False
+H. pylori,random,0.001,5.0,0.067352294921875,0.215,False
+H. pylori,random,0.001,6.0,0.046417236328125,0.2,False
+H. pylori,random,0.001,7.0,0.067352294921875,0.215,False
+H. pylori,random,0.001,8.0,0.067352294921875,0.17,False
+H. pylori,random,0.001,9.0,0.067352294921875,0.21,False
+H. pylori,random,0.001,10.0,0.067352294921875,0.16,False
+H. pylori,random,0.001,11.0,0.066925048828125,0.2125,False
+H. pylori,random,0.001,12.0,0.067352294921875,0.1775,False
+H. pylori,random,0.001,13.0,0.067352294921875,0.2275,False
+H. pylori,random,0.001,14.0,0.067352294921875,0.22,False
+H. pylori,random,0.001,15.0,0.067352294921875,0.1825,False
+H. pylori,random,0.001,16.0,0.067352294921875,0.23,False
+H. pylori,random,0.001,17.0,0.067352294921875,0.13,False
+H. pylori,random,0.001,18.0,0.067352294921875,0.19,False
+H. pylori,random,0.001,19.0,0.067352294921875,0.2025,False
+H. pylori,random,0.001,20.0,0.067352294921875,0.235,False
+H. pylori,random,0.001,21.0,0.067352294921875,0.205,False
+H. pylori,random,0.001,22.0,0.067352294921875,0.2025,False
+H. pylori,random,0.001,23.0,0.067352294921875,0.175,False
+H. pylori,random,0.001,24.0,0.067352294921875,0.225,False
+H. pylori,random,0.001,25.0,0.067352294921875,0.215,False
+H. pylori,random,0.001,26.0,0.048919677734375,0.22,False
+H. pylori,random,0.001,27.0,0.067352294921875,0.2225,False
+H. pylori,random,0.001,28.0,0.067352294921875,0.17,False
+H. pylori,random,0.001,29.0,0.067352294921875,0.1925,False
+H. pylori,random,0.001,30.0,0.067352294921875,0.2,False
+H. pylori,random,0.001,31.0,0.067352294921875,0.235,False
+H. pylori,random,0.001,32.0,0.067352294921875,0.175,False
+H. pylori,random,0.001,33.0,0.067352294921875,0.2425,False
+H. pylori,random,0.001,34.0,0.067352294921875,0.195,False
+H. pylori,random,0.001,35.0,0.067352294921875,0.175,False
+H. pylori,random,0.001,36.0,0.067352294921875,0.195,False
+H. pylori,random,0.001,37.0,0.067352294921875,0.1875,False
+H. pylori,random,0.001,38.0,0.067352294921875,0.2,False
+H. pylori,random,0.001,39.0,0.067352294921875,0.205,False
+H. pylori,random,0.003,0.0,0.067352294921875,0.15,False
+H. pylori,random,0.003,1.0,0.067352294921875,0.1925,False
+H. pylori,random,0.003,2.0,0.067108154296875,0.1575,False
+H. pylori,random,0.003,3.0,0.067291259765625,0.1925,False
+H. pylori,random,0.003,4.0,0.067291259765625,0.195,False
+H. pylori,random,0.003,5.0,0.067352294921875,0.1875,False
+H. pylori,random,0.003,6.0,0.049041748046875,0.1825,False
+H. pylori,random,0.003,7.0,0.067352294921875,0.1825,False
+H. pylori,random,0.003,8.0,0.067352294921875,0.22,False
+H. pylori,random,0.003,9.0,0.067230224609375,0.215,False
+H. pylori,random,0.003,10.0,0.067352294921875,0.205,False
+H. pylori,random,0.003,11.0,0.067291259765625,0.205,False
+H. pylori,random,0.003,12.0,0.046417236328125,0.2,False
+H. pylori,random,0.003,13.0,0.067352294921875,0.2325,False
+H. pylori,random,0.003,14.0,0.067352294921875,0.2125,False
+H. pylori,random,0.003,15.0,0.067352294921875,0.1925,False
+H. pylori,random,0.003,16.0,0.067352294921875,0.2075,False
+H. pylori,random,0.003,17.0,0.067352294921875,0.195,False
+H. pylori,random,0.003,18.0,0.067352294921875,0.1925,False
+H. pylori,random,0.003,19.0,0.067352294921875,0.17,False
+H. pylori,random,0.01,0.0,0.058929443359375,0.1625,False
+H. pylori,random,0.01,1.0,0.067352294921875,0.215,False
+H. pylori,random,0.01,2.0,0.067169189453125,0.2225,False
+H. pylori,random,0.01,3.0,0.066986083984375,0.2175,False
+H. pylori,random,0.01,4.0,0.049041748046875,0.1725,False
+H. pylori,random,0.01,5.0,0.022613525390625,0.19,False
+H. pylori,random,0.01,6.0,0.049041748046875,0.23,False
+H. pylori,random,0.01,7.0,0.063507080078125,0.2075,False
+H. pylori,random,0.01,8.0,0.067352294921875,0.215,False
+H. pylori,random,0.01,9.0,0.067169189453125,0.18,False
+H. pylori,random,0.01,10.0,0.066864013671875,0.225,False
+H. pylori,random,0.01,11.0,0.060150146484375,0.2325,False
+H. pylori,random,0.01,12.0,0.043670654296875,0.195,False
+H. pylori,random,0.03,0.0,0.052337646484375,0.1875,False
+H. pylori,random,0.03,1.0,0.050323486328125,0.2,False
+H. pylori,random,0.03,2.0,0.059783935546875,0.17,False
+H. pylori,random,0.03,3.0,0.020721435546875,0.1275,False
+H. pylori,random,0.03,4.0,0.047210693359375,0.1675,False
+H. pylori,random,0.03,5.0,0.044647216796875,0.17,False
+H. pylori,random,0.03,6.0,0.052764892578125,0.1575,False
+H. pylori,random,0.03,7.0,0.047271728515625,0.185,False
+H. pylori,random,0.03,8.0,0.031768798828125,0.1925,False
+H. pylori,random,0.03,9.0,0.044647216796875,0.2025,False
+H. pylori,random,0.03,10.0,3.0517578125e-05,0.2025,False
+H. pylori,random,0.05,0.0,3.0517578125e-05,0.1225,False
+H. pylori,random,0.05,1.0,0.022857666015625,0.135,False
+H. pylori,random,0.05,2.0,0.059539794921875,0.17,False
+H. pylori,random,0.05,3.0,0.049041748046875,0.2125,False
+H. pylori,random,0.05,4.0,0.0,0.1775,False
+H. pylori,random,0.05,5.0,0.034454345703125,0.1675,False
+H. pylori,random,0.05,6.0,0.039459228515625,0.17,False
+H. pylori,random,0.05,7.0,0.047454833984375,0.1575,False
+H. pylori,random,0.05,8.0,0.019134521484375,0.1475,False
+H. pylori,random,0.05,9.0,3.0517578125e-05,0.135,False
+H. pylori,random,0.05,10.0,0.029083251953125,0.1825,False
+H. pylori,random,0.1,0.0,0.0,0.15,False
+H. pylori,random,0.1,1.0,0.022979736328125,0.16,False
+H. pylori,random,0.1,2.0,0.0,0.12,False
+H. pylori,random,0.1,3.0,0.022857666015625,0.125,False
+H. pylori,random,0.1,4.0,0.0,0.1525,False
+H. pylori,random,0.1,5.0,3.0517578125e-05,0.1225,False
+H. pylori,random,0.1,6.0,0.0,0.1625,False
+H. pylori,random,0.1,7.0,0.0,0.1225,False
+H. pylori,random,0.1,8.0,3.0517578125e-05,0.0925,False
+H. pylori,random,0.1,9.0,0.034515380859375,0.1425,False
+H. pylori,degree,0.0,0.0,0.067352294921875,0.21,False
+H. pylori,degree,0.001,0.0,0.063751220703125,0.205,False
+H. pylori,degree,0.003,0.0,0.060455322265625,0.175,False
+H. pylori,degree,0.01,0.0,0.0,0.1875,False
+H. pylori,degree,0.03,0.0,0.0,0.2075,False
+H. pylori,degree,0.05,0.0,0.0,0.3025,False
+H. pylori,degree,0.05,1.0,0.0,0.36,False
+H. pylori,degree,0.05,2.0,0.0,0.1975,False
+H. pylori,degree,0.05,3.0,0.0,0.1675,False
+H. pylori,degree,0.05,4.0,0.0,0.24,False
+H. pylori,degree,0.05,5.0,0.0,0.28,False
+H. pylori,degree,0.05,6.0,0.0,0.35,False
+H. pylori,degree,0.05,7.0,0.0,0.24,False
+H. pylori,degree,0.05,8.0,0.0,0.305,False
+H. pylori,degree,0.05,9.0,0.0,0.33,False
+H. pylori,degree,0.05,10.0,0.0,0.3525,False
+H. pylori,degree,0.1,0.0,0.0,0.2825,False
+H. pylori,degree,0.1,1.0,0.0,0.3,False
+H. pylori,degree,0.1,2.0,0.0,0.6,True
+H. pylori,degree,0.1,3.0,0.0,0.395,False
+H. pylori,degree,0.1,4.0,0.0,0.3025,False
+H. pylori,degree,0.1,5.0,0.0,0.2725,False
+H. pylori,degree,0.1,6.0,0.0,0.37,False
+H. pylori,degree,0.1,7.0,0.0,0.39,False
+H. pylori,degree,0.1,8.0,0.0,0.235,False
+H. pylori,degree,0.1,9.0,0.0,0.275,False
+H. pylori,betweenness,0.0,0.0,0.067352294921875,0.1925,False
+H. pylori,betweenness,0.001,0.0,0.063751220703125,0.1925,False
+H. pylori,betweenness,0.003,0.0,0.060455322265625,0.155,False
+H. pylori,betweenness,0.01,0.0,0.0,0.19,False
+H. pylori,betweenness,0.03,0.0,0.0,0.285,False
+H. pylori,betweenness,0.05,0.0,0.0,0.2525,False
+H. pylori,betweenness,0.1,0.0,0.0,0.3575,False
+P. falciparum,random,0.0,0.0,0.034454345703125,0.1525,False
+P. falciparum,random,0.001,0.0,0.034454345703125,0.2,False
+P. falciparum,random,0.001,1.0,0.034454345703125,0.1775,False
+P. falciparum,random,0.001,2.0,0.034454345703125,0.1575,False
+P. falciparum,random,0.001,3.0,0.034454345703125,0.1725,False
+P. falciparum,random,0.001,4.0,0.034454345703125,0.1175,False
+P. falciparum,random,0.001,5.0,0.034454345703125,0.175,False
+P. falciparum,random,0.001,6.0,0.021636962890625,0.17,False
+P. falciparum,random,0.001,7.0,0.034454345703125,0.19,False
+P. falciparum,random,0.001,8.0,0.034454345703125,0.1725,False
+P. falciparum,random,0.001,9.0,0.034454345703125,0.14,False
+P. falciparum,random,0.001,10.0,0.034454345703125,0.195,False
+P. falciparum,random,0.001,11.0,0.034454345703125,0.185,False
+P. falciparum,random,0.001,12.0,0.034454345703125,0.1775,False
+P. falciparum,random,0.001,13.0,0.034454345703125,0.2075,False
+P. falciparum,random,0.001,14.0,0.034454345703125,0.2225,False
+P. falciparum,random,0.001,15.0,0.021636962890625,0.185,False
+P. falciparum,random,0.001,16.0,0.034454345703125,0.19,False
+P. falciparum,random,0.001,17.0,0.021636962890625,0.1775,False
+P. falciparum,random,0.001,18.0,0.021636962890625,0.21,False
+P. falciparum,random,0.001,19.0,0.034454345703125,0.2075,False
+P. falciparum,random,0.001,20.0,0.034454345703125,0.135,False
+P. falciparum,random,0.001,21.0,0.034454345703125,0.1775,False
+P. falciparum,random,0.001,22.0,0.034454345703125,0.16,False
+P. falciparum,random,0.001,23.0,0.021575927734375,0.1525,False
+P. falciparum,random,0.001,24.0,0.034454345703125,0.1525,False
+P. falciparum,random,0.003,0.0,0.034454345703125,0.195,False
+P. falciparum,random,0.003,1.0,0.034454345703125,0.17,False
+P. falciparum,random,0.003,2.0,0.034454345703125,0.16,False
+P. falciparum,random,0.003,3.0,0.034454345703125,0.17,False
+P. falciparum,random,0.003,4.0,0.034454345703125,0.205,False
+P. falciparum,random,0.003,5.0,0.021636962890625,0.1375,False
+P. falciparum,random,0.003,6.0,0.034454345703125,0.195,False
+P. falciparum,random,0.003,7.0,0.034454345703125,0.1775,False
+P. falciparum,random,0.003,8.0,0.034454345703125,0.185,False
+P. falciparum,random,0.003,9.0,0.034454345703125,0.175,False
+P. falciparum,random,0.003,10.0,0.021636962890625,0.1475,False
+P. falciparum,random,0.003,11.0,0.021636962890625,0.1975,False
+P. falciparum,random,0.003,12.0,0.034454345703125,0.1675,False
+P. falciparum,random,0.003,13.0,0.034454345703125,0.1625,False
+P. falciparum,random,0.003,14.0,0.034454345703125,0.16,False
+P. falciparum,random,0.003,15.0,0.034393310546875,0.16,False
+P. falciparum,random,0.01,0.0,0.034454345703125,0.15,False
+P. falciparum,random,0.01,1.0,0.034393310546875,0.155,False
+P. falciparum,random,0.01,2.0,0.021575927734375,0.1575,False
+P. falciparum,random,0.01,3.0,0.034454345703125,0.165,False
+P. falciparum,random,0.01,4.0,0.034454345703125,0.13,False
+P. falciparum,random,0.01,5.0,0.034454345703125,0.1925,False
+P. falciparum,random,0.01,6.0,0.034454345703125,0.15,False
+P. falciparum,random,0.01,7.0,0.034454345703125,0.18,False
+P. falciparum,random,0.01,8.0,0.034454345703125,0.1775,False
+P. falciparum,random,0.01,9.0,0.034454345703125,0.225,False
+P. falciparum,random,0.01,10.0,0.034454345703125,0.175,False
+P. falciparum,random,0.01,11.0,0.034454345703125,0.1975,False
+P. falciparum,random,0.03,0.0,0.034454345703125,0.19,False
+P. falciparum,random,0.03,1.0,0.021575927734375,0.1775,False
+P. falciparum,random,0.03,2.0,0.019439697265625,0.155,False
+P. falciparum,random,0.03,3.0,0.034454345703125,0.135,False
+P. falciparum,random,0.03,4.0,0.021636962890625,0.15,False
+P. falciparum,random,0.03,5.0,0.014923095703125,0.1775,False
+P. falciparum,random,0.03,6.0,0.021575927734375,0.145,False
+P. falciparum,random,0.03,7.0,0.009918212890625,0.115,False
+P. falciparum,random,0.03,8.0,0.009979248046875,0.1575,False
+P. falciparum,random,0.03,9.0,0.0,0.1675,False
+P. falciparum,random,0.03,10.0,3.0517578125e-05,0.1625,False
+P. falciparum,random,0.05,0.0,3.0517578125e-05,0.18,False
+P. falciparum,random,0.05,1.0,0.0,0.0975,False
+P. falciparum,random,0.05,2.0,0.009979248046875,0.1,False
+P. falciparum,random,0.05,3.0,0.009979248046875,0.1575,False
+P. falciparum,random,0.05,4.0,0.012786865234375,0.12,False
+P. falciparum,random,0.05,5.0,0.021575927734375,0.155,False
+P. falciparum,random,0.05,6.0,0.0,0.1675,False
+P. falciparum,random,0.05,7.0,3.0517578125e-05,0.2,False
+P. falciparum,random,0.05,8.0,0.021636962890625,0.17,False
+P. falciparum,random,0.05,9.0,3.0517578125e-05,0.1625,False
+P. falciparum,random,0.1,0.0,3.0517578125e-05,0.09,False
+P. falciparum,random,0.1,1.0,3.0517578125e-05,0.1125,False
+P. falciparum,random,0.1,2.0,0.0,0.095,False
+P. falciparum,random,0.1,3.0,3.0517578125e-05,0.1175,False
+P. falciparum,random,0.1,4.0,0.0,0.105,False
+P. falciparum,random,0.1,5.0,0.0,0.085,False
+P. falciparum,random,0.1,6.0,0.0,0.1,False
+P. falciparum,random,0.1,7.0,0.0,0.1325,False
+P. falciparum,random,0.1,8.0,0.0,0.0825,False
+P. falciparum,random,0.1,9.0,3.0517578125e-05,0.085,False
+P. falciparum,degree,0.0,0.0,0.034454345703125,0.1725,False
+P. falciparum,degree,0.001,0.0,0.007476806640625,0.16,False
+P. falciparum,degree,0.001,1.0,0.026214599609375,0.1,False
+P. falciparum,degree,0.001,2.0,0.026214599609375,0.1625,False
+P. falciparum,degree,0.001,3.0,0.007476806640625,0.2025,False
+P. falciparum,degree,0.001,4.0,0.007476806640625,0.185,False
+P. falciparum,degree,0.001,5.0,0.026214599609375,0.18,False
+P. falciparum,degree,0.001,6.0,0.007476806640625,0.1625,False
+P. falciparum,degree,0.001,7.0,0.026214599609375,0.1325,False
+P. falciparum,degree,0.001,8.0,0.007476806640625,0.1725,False
+P. falciparum,degree,0.001,9.0,0.026214599609375,0.16,False
+P. falciparum,degree,0.001,10.0,0.026214599609375,0.175,False
+P. falciparum,degree,0.001,11.0,0.007476806640625,0.1975,False
+P. falciparum,degree,0.001,12.0,0.007476806640625,0.19,False
+P. falciparum,degree,0.001,13.0,0.026214599609375,0.16,False
+P. falciparum,degree,0.001,14.0,0.007476806640625,0.2025,False
+P. falciparum,degree,0.001,15.0,0.026214599609375,0.155,False
+P. falciparum,degree,0.001,16.0,0.026214599609375,0.1675,False
+P. falciparum,degree,0.001,17.0,0.026214599609375,0.18,False
+P. falciparum,degree,0.001,18.0,0.007476806640625,0.155,False
+P. falciparum,degree,0.001,19.0,0.007476806640625,0.1525,False
+P. falciparum,degree,0.001,20.0,0.026214599609375,0.1825,False
+P. falciparum,degree,0.001,21.0,0.007476806640625,0.17,False
+P. falciparum,degree,0.001,22.0,0.026214599609375,0.1325,False
+P. falciparum,degree,0.001,23.0,0.026214599609375,0.1425,False
+P. falciparum,degree,0.001,24.0,0.026214599609375,0.135,False
+P. falciparum,degree,0.003,0.0,3.0517578125e-05,0.125,False
+P. falciparum,degree,0.01,0.0,0.0,0.15,False
+P. falciparum,degree,0.01,1.0,0.0,0.165,False
+P. falciparum,degree,0.01,2.0,0.0,0.305,False
+P. falciparum,degree,0.01,3.0,0.0,0.26,False
+P. falciparum,degree,0.01,4.0,0.0,0.185,False
+P. falciparum,degree,0.01,5.0,0.0,0.2475,False
+P. falciparum,degree,0.01,6.0,0.0,0.2075,False
+P. falciparum,degree,0.01,7.0,0.0,0.1825,False
+P. falciparum,degree,0.01,8.0,0.0,0.3275,False
+P. falciparum,degree,0.01,9.0,0.0,0.4,True
+P. falciparum,degree,0.01,10.0,0.0,0.22,False
+P. falciparum,degree,0.01,11.0,0.0,0.31,False
+P. falciparum,degree,0.03,0.0,0.0,0.295,False
+P. falciparum,degree,0.05,0.0,0.0,0.2625,False
+P. falciparum,degree,0.05,1.0,0.0,0.3475,False
+P. falciparum,degree,0.05,2.0,0.0,0.35,False
+P. falciparum,degree,0.05,3.0,0.0,0.28,False
+P. falciparum,degree,0.05,4.0,0.0,0.355,False
+P. falciparum,degree,0.05,5.0,0.0,0.2825,False
+P. falciparum,degree,0.05,6.0,0.0,0.2425,False
+P. falciparum,degree,0.05,7.0,0.0,0.1425,False
+P. falciparum,degree,0.05,8.0,0.0,0.2475,False
+P. falciparum,degree,0.05,9.0,0.0,0.3625,False
+P. falciparum,degree,0.1,0.0,0.0,0.395,False
+P. falciparum,degree,0.1,1.0,0.0,0.265,False
+P. falciparum,degree,0.1,2.0,0.0,0.6,True
+P. falciparum,degree,0.1,3.0,0.0,0.31,False
+P. falciparum,degree,0.1,4.0,0.0,0.2025,False
+P. falciparum,degree,0.1,5.0,0.0,0.4,True
+P. falciparum,degree,0.1,6.0,0.0,0.2975,False
+P. falciparum,degree,0.1,7.0,0.0,0.38,False
+P. falciparum,degree,0.1,8.0,0.0,0.2875,False
+P. falciparum,degree,0.1,9.0,0.0,0.335,False
+P. falciparum,betweenness,0.0,0.0,0.034454345703125,0.1475,False
+P. falciparum,betweenness,0.001,0.0,0.034210205078125,0.12,False
+P. falciparum,betweenness,0.003,0.0,0.0,0.1825,False
+P. falciparum,betweenness,0.01,0.0,0.0,0.275,False
+P. falciparum,betweenness,0.03,0.0,0.0,0.295,False
+P. falciparum,betweenness,0.05,0.0,0.0,0.2825,False
+P. falciparum,betweenness,0.1,0.0,0.0,0.3625,False
+E. coli,random,0.0,0.0,0.015350341796875,0.0825,False
+E. coli,random,0.001,0.0,0.015350341796875,0.085,False
+E. coli,random,0.001,1.0,0.015350341796875,0.0875,False
+E. coli,random,0.001,2.0,0.015350341796875,0.0625,False
+E. coli,random,0.001,3.0,0.010040283203125,0.1,False
+E. coli,random,0.001,4.0,0.015350341796875,0.06,False
+E. coli,random,0.001,5.0,0.015350341796875,0.0575,False
+E. coli,random,0.001,6.0,0.010650634765625,0.0725,False
+E. coli,random,0.001,7.0,0.015350341796875,0.06,False
+E. coli,random,0.001,8.0,0.014923095703125,0.0825,False
+E. coli,random,0.001,9.0,0.015350341796875,0.075,False
+E. coli,random,0.001,10.0,0.015350341796875,0.07,False
+E. coli,random,0.001,11.0,0.009552001953125,0.095,False
+E. coli,random,0.001,12.0,0.015350341796875,0.06,False
+E. coli,random,0.001,13.0,0.015350341796875,0.08,False
+E. coli,random,0.001,14.0,0.015350341796875,0.095,False
+E. coli,random,0.001,15.0,0.015350341796875,0.08,False
+E. coli,random,0.001,16.0,0.015350341796875,0.07,False
+E. coli,random,0.001,17.0,0.015350341796875,0.0425,False
+E. coli,random,0.001,18.0,0.009552001953125,0.0625,False
+E. coli,random,0.001,19.0,0.015350341796875,0.0725,False
+E. coli,random,0.003,0.0,0.009552001953125,0.085,False
+E. coli,random,0.003,1.0,0.015289306640625,0.065,False
+E. coli,random,0.003,2.0,0.015350341796875,0.0825,False
+E. coli,random,0.003,3.0,0.015289306640625,0.0575,False
+E. coli,random,0.003,4.0,0.015350341796875,0.0575,False
+E. coli,random,0.003,5.0,0.015350341796875,0.065,False
+E. coli,random,0.003,6.0,0.009552001953125,0.0825,False
+E. coli,random,0.003,7.0,0.009552001953125,0.0925,False
+E. coli,random,0.003,8.0,0.015350341796875,0.07,False
+E. coli,random,0.003,9.0,0.015350341796875,0.065,False
+E. coli,random,0.003,10.0,0.015350341796875,0.07,False
+E. coli,random,0.003,11.0,0.015350341796875,0.07,False
+E. coli,random,0.003,12.0,0.015350341796875,0.07,False
+E. coli,random,0.01,0.0,0.015350341796875,0.0875,False
+E. coli,random,0.01,1.0,0.009552001953125,0.075,False
+E. coli,random,0.01,2.0,0.014190673828125,0.0775,False
+E. coli,random,0.01,3.0,0.013763427734375,0.055,False
+E. coli,random,0.01,4.0,0.004364013671875,0.0625,False
+E. coli,random,0.01,5.0,0.009185791015625,0.0625,False
+E. coli,random,0.01,6.0,0.015350341796875,0.0875,False
+E. coli,random,0.01,7.0,0.006744384765625,0.0675,False
+E. coli,random,0.01,8.0,0.009552001953125,0.0675,False
+E. coli,random,0.01,9.0,0.015289306640625,0.05,False
+E. coli,random,0.01,10.0,0.009552001953125,0.0875,False
+E. coli,random,0.03,0.0,0.0,0.0475,False
+E. coli,random,0.03,1.0,0.0,0.045,False
+E. coli,random,0.03,2.0,3.0517578125e-05,0.035,False
+E. coli,random,0.03,3.0,3.0517578125e-05,0.06,False
+E. coli,random,0.03,4.0,0.002227783203125,0.04,False
+E. coli,random,0.03,5.0,0.0,0.06,False
+E. coli,random,0.03,6.0,0.005035400390625,0.045,False
+E. coli,random,0.03,7.0,0.004241943359375,0.0475,False
+E. coli,random,0.03,8.0,3.0517578125e-05,0.035,False
+E. coli,random,0.03,9.0,0.004364013671875,0.0425,False
+E. coli,random,0.05,0.0,0.001861572265625,0.0575,False
+E. coli,random,0.05,1.0,0.0,0.01,False
+E. coli,random,0.05,2.0,0.0,0.0325,False
+E. coli,random,0.05,3.0,0.0,0.02,False
+E. coli,random,0.05,4.0,0.0,0.0325,False
+E. coli,random,0.05,5.0,3.0517578125e-05,0.03,False
+E. coli,random,0.05,6.0,0.0,0.04,False
+E. coli,random,0.05,7.0,0.0,0.0225,False
+E. coli,random,0.05,8.0,0.0,0.04,False
+E. coli,random,0.05,9.0,0.0,0.0625,False
+E. coli,random,0.1,0.0,0.0,0.0975,False
+E. coli,random,0.1,1.0,0.0,0.1175,False
+E. coli,random,0.1,2.0,0.0,0.095,False
+E. coli,random,0.1,3.0,0.0,0.0725,False
+E. coli,random,0.1,4.0,0.0,0.0675,False
+E. coli,random,0.1,5.0,0.0,0.19,False
+E. coli,random,0.1,6.0,0.0,0.35,False
+E. coli,random,0.1,7.0,0.0,0.1425,False
+E. coli,random,0.1,8.0,0.0,0.0875,False
+E. coli,random,0.1,9.0,0.0,0.1975,False
+E. coli,degree,0.0,0.0,0.015350341796875,0.06,False
+E. coli,degree,0.001,0.0,0.003387451171875,0.0525,False
+E. coli,degree,0.003,0.0,0.0,0.0675,False
+E. coli,degree,0.01,0.0,0.0,0.3025,False
+E. coli,degree,0.01,1.0,0.0,0.08,False
+E. coli,degree,0.01,2.0,0.0,0.2975,False
+E. coli,degree,0.01,3.0,0.0,0.18,False
+E. coli,degree,0.01,4.0,0.0,0.1825,False
+E. coli,degree,0.01,5.0,0.0,0.1825,False
+E. coli,degree,0.01,6.0,0.0,0.1875,False
+E. coli,degree,0.01,7.0,0.0,0.1575,False
+E. coli,degree,0.01,8.0,0.0,0.2575,False
+E. coli,degree,0.01,9.0,0.0,0.175,False
+E. coli,degree,0.01,10.0,0.0,0.185,False
+E. coli,degree,0.03,0.0,0.0,0.37,False
+E. coli,degree,0.03,1.0,0.0,0.245,False
+E. coli,degree,0.03,2.0,0.0,0.375,False
+E. coli,degree,0.03,3.0,0.0,0.19,False
+E. coli,degree,0.03,4.0,0.0,0.315,False
+E. coli,degree,0.03,5.0,0.0,0.335,False
+E. coli,degree,0.03,6.0,0.0,0.255,False
+E. coli,degree,0.03,7.0,0.0,0.24,False
+E. coli,degree,0.03,8.0,0.0,0.375,False
+E. coli,degree,0.03,9.0,0.0,0.21,False
+E. coli,degree,0.05,0.0,0.0,0.345,False
+E. coli,degree,0.05,1.0,0.0,0.2275,False
+E. coli,degree,0.05,2.0,0.0,0.315,False
+E. coli,degree,0.05,3.0,0.0,0.23,False
+E. coli,degree,0.05,4.0,0.0,0.1425,False
+E. coli,degree,0.05,5.0,0.0,0.1525,False
+E. coli,degree,0.05,6.0,0.0,0.2375,False
+E. coli,degree,0.05,7.0,0.0,0.17,False
+E. coli,degree,0.05,8.0,0.0,0.1475,False
+E. coli,degree,0.05,9.0,0.0,0.2825,False
+E. coli,degree,0.1,0.0,0.0,0.35,False
+E. coli,degree,0.1,1.0,0.0,0.3675,False
+E. coli,degree,0.1,2.0,0.0,0.2075,False
+E. coli,degree,0.1,3.0,0.0,0.26,False
+E. coli,degree,0.1,4.0,0.0,0.37,False
+E. coli,degree,0.1,5.0,0.0,0.3025,False
+E. coli,degree,0.1,6.0,0.0,0.205,False
+E. coli,degree,0.1,7.0,0.0,0.2775,False
+E. coli,degree,0.1,8.0,0.0,0.315,False
+E. coli,degree,0.1,9.0,0.0,0.2625,False
+E. coli,betweenness,0.0,0.0,0.015350341796875,0.0825,False
+E. coli,betweenness,0.001,0.0,0.007293701171875,0.0675,False
+E. coli,betweenness,0.003,0.0,0.0,0.0975,False
+E. coli,betweenness,0.01,0.0,0.0,0.15,False
+E. coli,betweenness,0.03,0.0,0.0,0.2025,False
+E. coli,betweenness,0.05,0.0,0.0,0.2025,False
+E. coli,betweenness,0.1,0.0,0.0,0.3875,False
